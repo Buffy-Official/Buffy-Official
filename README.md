@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Gaming-YT-Offcial
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Java 
-- 💞️ I’m looking to collaborate on None -_-
-- 📫 How to reach me You Can't :)
+- 🌱 I’m currently learning Java
 
 <!---
 Gaming-YT-Offcial/Gaming-YT-Offcial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
